@@ -1,0 +1,4 @@
+origin	git@github.com:skyportsystems/gototp (fetch)
+origin	git@github.com:skyportsystems/gototp (push)
+upstream	https://github.com/craigmj/gototp.git (fetch)
+upstream	https://github.com/craigmj/gototp.git (push)
